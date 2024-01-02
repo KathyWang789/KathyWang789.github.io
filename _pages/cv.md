@@ -36,11 +36,8 @@ Skills
 
 Publications
 ======
-* [https://ieeexplore.ieee.org/document/10074740/metrics](https://ieeexplore.ieee.org/document/10074740/metrics)
+* [https://ieeexplore.ieee.org/document/10074740/metrics](Hybrid Service Function Chains Dynamic Deployment in Multi-Domain Edge Cloud Networks)
 * S. Zhang, **B. Wang** et al., "Hybrid Service Function Chains Dynamic Deployment in Multi-Domain Edge Cloud Networks," 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Hainan, China, 2022, pp. 627-634, doi: 10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00110.
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Awards
 ======
@@ -52,10 +49,8 @@ Awards
 6. 2022 The Honorable Mention of the  Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling.
 7. 2019-2022 University-level scholarship, outstanding individual student organization of Beijing University of Posts and Telecommunications.
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Oct. 2019 – Jun. 2022 President of BUPT Innovation and Entrepreneurship Centre.
+  * Managed more than 400 members for 3 consecutive years. Discovered and cultivated 15 backbones. 
+  * Coordinated 3 national innovation competitions, and organized visits to Lenovo and other large internet companies.
