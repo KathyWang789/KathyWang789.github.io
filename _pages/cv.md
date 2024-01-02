@@ -16,27 +16,23 @@ Education
 
 Work experience
 ======
-* Xiaomi Mobile Software - Autonomous Cars Department
-  * Software Development Engineer Intern | Mar. 2023 – Jul. 2023 | Beijing, China
-  * Architected and implemented the logical framework for the Vehicle Reservation & Management platform(MiVRM), which is designed to increase the efficiency of operations for over 100 vehicles.
-  * Integrated four distinct visual tools into the Xiaomi Scenario Viewer(MiSV), which is designed to . 
-  * Developed the UI with Figma.
-  * Tracked up the progress, arranged the meeting for product development.
-  * Performed major refactoring of backend code with Django to improve system performance and front-to-back-end content delivery.
+* Mar. 2023 – Jul. 2023: Software Development Engineer Intern
+  * Xiaomi Mobile Software - Autonomous Cars Department
+  * Architected and implemented the logical framework for the Vehicle Reservation & Management platform(MiVRM), performed major refactoring of backend code with Django to improve system performance.
+  * Integrated four distinct visual tools into the Xiaomi Scenario Viewer(MiSV), which is designed to monitor and analyze vehicle safety information in different scenarios. 
+  * Developed the UI with Figma, tracked up the product progress, arranged the meeting for product development.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2022 – Apr. 2022: Software Development Engineer in Test Intern
+  * ByteDance – Data Department
+  * Studied over 10 types of advertising and the logic of advertising, analysed the anomalies existing in MR Pipeline and wrote automated test code.
+  * Accomplished over 20 requirements and made 10% improvement for the test.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, C, C#, SQL, Matlab
+* Developer Tools: Git, Visual Studio, Keil, Linux, Google Cloud Platform, LaTex, Figma
+* General Tools: Microsoft Excel, Words, Powerpoint
+* Languages: Fluent in English and Mandarin (spoken and written)
 
 Publications
 ======
