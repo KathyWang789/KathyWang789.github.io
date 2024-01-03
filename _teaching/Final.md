@@ -13,8 +13,7 @@ processing to avoid the current problems such as colour cast and detail blur.
 
 # Supervisor: [Changjae Oh](http://eecs.qmul.ac.uk/~coh/)
 
-
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/final.png"/>
+<img src="../images/final.png"/>
 
 Abstract
 ======
@@ -24,37 +23,39 @@ Proposed Method
 =====
 ## Overview
 The network is splited into the structure network (SNet) and the detail network (DNet). We aim to deal with problems more efficiently and in a more targeted way.
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/finaloverview.png"/>
+<img src="../images/finaloverview.png"/>
 
 ## Image Processing
 
 ### Discrete Wavelet Decomposition(DWT)
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/DWT.png"/>
+<img src="../images/DWT.png"/>
+
 When processing an underwater image I, we first decompose it into a subband image using the DWT. The low-frequency sub-band image (𝐼𝐿𝐿) is composed of the half-resolution approximation of the original image. In contrast, the high-frequency sub-band image contains the high-frequency information in the original image, which is divided into three directions: vertical direction (𝐼𝐿𝐻), horizontal direction (𝐼𝐻𝐿), and diagonal direction (𝐼𝐻𝐻). By decomposing into multiple sub-band images, the different frequency information in the image can be processed more effectively, so as to achieve better underwater image enhancement effects. After obtaining the sub-band estimations using DWT, they are integrated and reconstructed back to the original size of the image using IDWT. The process of IDWT involves performing an inverse wavelet transform on the sub-band estimations to obtain a reconstructed image that is the same size as the original image. This reconstructed image is then used for further processing or analysis.
 
 ### Multi-colour Space Fusion 
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/fusion.png"/>
+<img src="../images/fusion.png"/>
+
 Before input to the network, we also perform a multi-color space fusion operation on 𝐼𝐿𝐿. Multi-color space fusion is a technique to combine the features of multiple color Spaces into a multi-channel image. The HSV color space represents colors based on their hue, saturation, and value, which makes it useful for adjusting brightness and contrast. On the other hand, the Lab color space represents colors based on their lightness, a (green-red), and b (blue-yellow) values, which is more perceptually uniform and better suited for color correction tasks. 
 
 ## Structure Network
 Structure Network consists of Transformer module and conventional convolutional module. The model generally adopts U-net encoding and decoding structure to solve problems such as image colour bias.
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/SNET.png"/>
+<img src="../images/SNET.png"/>
 
 ## Detailed Network
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/DNET.png"/>
+<img src="../images/DNET.png"/>
 
 ## Loss Function
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/Ltotal.png"/>
+<img src="../images/Ltotal.png"/>
 
 Results
 ======
 ## Results on NYU-v2 dataset
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/nyuv2.png"/>
+<img src="../images/nyuv2.png"/>
 
 ## Results on LSUI dataset
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/LSUI.png"/>
+<img src="../images/LSUI.png"/>
 
 ## Results on UIEB dataset
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/UIEB.png"/>
+<img src="../images/UIEB.png"/>
 
-<img src="/Users/wbj/offer快来/KathyWang789.github.io/images/scores.png"/>
+<img src="../images/scores.png"/>
