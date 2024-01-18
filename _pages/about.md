@@ -8,6 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-This is Kathy's home on the web!
+[//]: # (Hi~ I am Wang Beijia&#40;Kathy&#41;, a 24' M.Sc. student in Computer Engineering of NUS. I am now searching for the SDE intern in Singapore.)
 
-hiiii
+[//]: # ()
+[//]: # (I have strong interest in developing computer engineering solution. Specialization in **System Design** and **Software Development**, experience in various computer engineering related projects. 4 months internship experience to Autonomous Cars Department at [_Xiaomi Corporation_]&#40;https://www.mi.com/global/&#41;, 3 months internship experience to Data Department at [_Bytedance_]&#40;https://www.bytedance.com/en/&#41;, and 1-year project in [_Beijing Key Lab of Intelligent Telecommunication Software and Multimedia_]&#40;https://baike.baidu.com/item/智能通信软件与多媒体北京市重点实验室/19811486&#41;.)
+
+[//]: # ()
+<style>
+.justified {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-right: 20px; /* Or any other value for natural right edge */
+}
+
+.justified::first-line {
+  text-indent: 2em; /* This indents the first line of each paragraph */
+}
+</style>
+
+<div style="text-align: justify;">
+  <strong>Hi~ I am Wang Beijia (Kathy)</strong>, a 24' M.Sc. student in Computer Engineering of NUS. I am now searching for the SDE intern in Singapore.
+  <br><br>
+  I have strong interest in developing computer engineering solutions. Specialization in <strong>System Design and Software Development</strong>, experience in various computer engineering related projects. 4 months internship experience to Autonomous Cars Department at <a href="https://www.mi.com/global/" target="_blank"><strong>Xiaomi Corporation</strong></a>, 3 months internship experience to Data Department at <a href="https://www.bytedance.com/en/" target="_blank"><strong>Bytedance</strong></a>, and 1-year project in <a href="https://baike.baidu.com/item/智能通信软件与多媒体北京市重点实验室/19811486" target="_blank"><strong>Beijing Key Lab of Intelligent Telecommunication Software and Multimedia</strong></a>.
+</div>
+<br>
+
+Core Competence
+=====
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">
+    <p>System Design</p>
+    <p>Data Analysis</p>
+    <p>Communication</p>
+  </div>
+  <div style="text-align: left;">
+    <p>Software Development</p>
+    <p>Prototype Design</p>
+    <p>Problem Solving</p>
+  </div>
+  <div style="text-align: left;">
+    <p>Programming<br/></p>
+    <p>Time Management</p>
+    <p>Team Corporation</p>
+  </div>
+  <div style="text-align: left;">
+    <p>Data Management<br/></p>
+    <p>Project Management</p>
+    <p>Trouble Shooting</p>
+  </div>
+</div>
+
+Projects Store
+======
+Maybe you are interested in what projects I have participated in , please click this link to check them! [see more](https://kathywang789.github.io/projects/)

@@ -25,27 +25,35 @@ Proposed Method
 The network is splited into the structure network (SNet) and the detail network (DNet). We aim to deal with problems more efficiently and in a more targeted way.
 <img src="../images/finaloverview.png"/>
 
-## Image Processing
+[//]: # ()
+[//]: # (## Image Processing)
 
-### Discrete Wavelet Decomposition(DWT)
-<img src="../images/DWT.png"/>
+[//]: # ()
+[//]: # (### Discrete Wavelet Decomposition&#40;DWT&#41;)
 
-When processing an underwater image I, we first decompose it into a subband image using the DWT. The low-frequency sub-band image (𝐼𝐿𝐿) is composed of the half-resolution approximation of the original image. In contrast, the high-frequency sub-band image contains the high-frequency information in the original image, which is divided into three directions: vertical direction (𝐼𝐿𝐻), horizontal direction (𝐼𝐻𝐿), and diagonal direction (𝐼𝐻𝐻). By decomposing into multiple sub-band images, the different frequency information in the image can be processed more effectively, so as to achieve better underwater image enhancement effects. After obtaining the sub-band estimations using DWT, they are integrated and reconstructed back to the original size of the image using IDWT. The process of IDWT involves performing an inverse wavelet transform on the sub-band estimations to obtain a reconstructed image that is the same size as the original image. This reconstructed image is then used for further processing or analysis.
+[//]: # (<img src="../images/DWT.png"/>)
 
-### Multi-colour Space Fusion 
-<img src="../images/fusion.png"/>
+[//]: # ()
+[//]: # (### Multi-colour Space Fusion )
 
-Before input to the network, we also perform a multi-color space fusion operation on 𝐼𝐿𝐿. Multi-color space fusion is a technique to combine the features of multiple color Spaces into a multi-channel image. The HSV color space represents colors based on their hue, saturation, and value, which makes it useful for adjusting brightness and contrast. On the other hand, the Lab color space represents colors based on their lightness, a (green-red), and b (blue-yellow) values, which is more perceptually uniform and better suited for color correction tasks. 
+[//]: # (<img src="../images/fusion.png"/>)
 
-## Structure Network
-Structure Network consists of Transformer module and conventional convolutional module. The model generally adopts U-net encoding and decoding structure to solve problems such as image colour bias.
-<img src="../images/SNET.png"/>
+[//]: # ()
+[//]: # (## Structure Network)
 
-## Detailed Network
-<img src="../images/DNET.png"/>
+[//]: # (Structure Network consists of Transformer module and conventional convolutional module. The model generally adopts U-net encoding and decoding structure to solve problems such as image colour bias.)
 
-## Loss Function
-<img src="../images/Ltotal.png"/>
+[//]: # (<img src="../images/SNET.png"/>)
+
+[//]: # ()
+[//]: # (## Detailed Network)
+
+[//]: # (<img src="../images/DNET.png"/>)
+
+[//]: # ()
+[//]: # (## Loss Function)
+
+[//]: # (<img src="../images/Ltotal.png"/>)
 
 Results
 ======
@@ -58,4 +66,5 @@ Results
 ## Results on UIEB dataset
 <img src="../images/UIEB.png"/>
 
+## Scores
 <img src="../images/scores.png"/>
