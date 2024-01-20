@@ -10,9 +10,8 @@ location: "Beijing, China"
 
 This project develops an integrated smart parking solution that employs real-time data and predictive analytics to streamline roadside parking. It addresses the critical need for efficient use of parking spaces, reducing congestion and environmental impact. The system serves motorists and city planners with user-friendly applications for spot prediction and reservation, fostering a more manageable and sustainable urban transportation environment.
 
-Supervisor
+Supervisor: Prof. [Dong Zhao](https://scholar.google.com/citations?hl=en&user=jZghsyQAAAAJ) and Assoc. Prof. [Pengfei Wang](https://scholar.google.com/citations?hl=en&user=BEDKYxUAAAAJ)
 ======
-Prof. [Dong Zhao](https://scholar.google.com/citations?hl=en&user=jZghsyQAAAAJ) and Assoc. Prof. [Pengfei Wang](https://scholar.google.com/citations?hl=en&user=BEDKYxUAAAAJ)
 
 项目背景
 ======
