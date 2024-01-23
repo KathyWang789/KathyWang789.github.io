@@ -54,5 +54,3 @@ Service and leadership
 * Oct. 2019 – Jun. 2022 President of BUPT Innovation and Entrepreneurship Centre.
   * Managed more than 400 members for 3 consecutive years. Discovered and cultivated 15 backbones. 
   * Coordinated 3 national innovation competitions, and organized visits to Lenovo and other large internet companies.
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=z9KfMee_ZGRr-EZv_PkR-Gw1WhnIdFJalM4mZi-eJtQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
