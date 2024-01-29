@@ -27,7 +27,7 @@ redirect_from:
 </style>
 
 <div style="text-align: justify;">
-  <strong>Hi~ I am Wang Beijia (Kathy)</strong>, a 24' M.Sc. student in Computer Engineering of NUS. I am now searching for the SDE intern in Singapore.
+  <strong>Hi~ I am Wang Beijia (Kathy)</strong>, a 25' M.Sc. student in Computer Engineering of NUS. I am now searching for the Software Development Engineer intern. I am available for onsite work in Singapore (Jan-Aug 2024) and in China (from June 2024 onwards). Open to remote opportunities as well.
   <br><br>
   I have strong interest in developing computer engineering solutions. Specialization in <strong>System Design and Software Development</strong>, experience in various computer engineering related projects. 4 months internship experience to Autonomous Cars Department at <a href="https://www.mi.com/global/" target="_blank"><strong>Xiaomi Corporation</strong></a>, 3 months internship experience to Data Department at <a href="https://www.bytedance.com/en/" target="_blank"><strong>Bytedance</strong></a>, and 1-year project in <a href="https://baike.baidu.com/item/智能通信软件与多媒体北京市重点实验室/19811486" target="_blank"><strong>Beijing Key Lab of Intelligent Telecommunication Software and Multimedia</strong></a>.
 </div>
