@@ -54,3 +54,7 @@ Service and leadership
 * Oct. 2019 – Jun. 2022 President of BUPT Innovation and Entrepreneurship Centre.
   * Managed more than 400 members for 3 consecutive years. Discovered and cultivated 15 backbones. 
   * Coordinated 3 national innovation competitions, and organized visits to Lenovo and other large internet companies.
+
+Resume Download
+=====
+You can download my resume file through this link: [Resume_Wang Beijia](https://kathywang789.github.io/files/Resume.pdf)

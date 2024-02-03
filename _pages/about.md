@@ -61,9 +61,9 @@ Core Competence
 
 Skills
 =====
-Programming: Python, Java, C, C#, SQL, Matlab
+Programming: Python, Java, C, C#, ./Net, SQL, Matlab
 
-Developer Tools: Git, Visual Studio, Keil, Linux, Google Cloud Platform, LaTex, Figma
+Developer Tools: Git, VS, Keil, Linux, Google Cloud, LaTex, Figma
 
 General Tools: Microsoft Excel, Words, Powerpoint
 
