@@ -62,8 +62,11 @@ Core Competence
 Skills
 =====
 Programming: Python, Java, C, C#, SQL, Matlab
+
 Developer Tools: Git, Visual Studio, Keil, Linux, Google Cloud Platform, LaTex, Figma
+
 General Tools: Microsoft Excel, Words, Powerpoint
+
 Languages: Fluent in English and Mandarin (spoken and written)
 
 Projects Store
