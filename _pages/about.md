@@ -59,6 +59,13 @@ Core Competence
   </div>
 </div>
 
+Skills
+=====
+Programming: Python, Java, C, C#, SQL, Matlab
+Developer Tools: Git, Visual Studio, Keil, Linux, Google Cloud Platform, LaTex, Figma
+General Tools: Microsoft Excel, Words, Powerpoint
+Languages: Fluent in English and Mandarin (spoken and written)
+
 Projects Store
 ======
 Maybe you are interested in what projects I have participated in , please click this link to check them! [see more](https://kathywang789.github.io/projects/)
