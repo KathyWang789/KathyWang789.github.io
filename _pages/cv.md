@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-* [https://ieeexplore.ieee.org/document/10074740/metrics](Hybrid Service Function Chains Dynamic Deployment in Multi-Domain Edge Cloud Networks)
+* [Hybrid Service Function Chains Dynamic Deployment in Multi-Domain Edge Cloud Networks](https://ieeexplore.ieee.org/document/10074740/metrics)
 * S. Zhang, **B. Wang** et al., "Hybrid Service Function Chains Dynamic Deployment in Multi-Domain Edge Cloud Networks," 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Hainan, China, 2022, pp. 627-634, doi: 10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00110.
   
 Awards
